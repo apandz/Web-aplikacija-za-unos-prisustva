@@ -1,0 +1,182 @@
+[
+    {
+        "studenti": [
+            {
+                "ime": "Neko Nekić",
+                "index": 12347
+            },
+            {
+                "ime": "Neko Nekić",
+                "index": 12346
+            },
+            {
+                "ime": "Neko Nekić",
+                "index": 12345
+            }
+        ],
+        "prisustva": [
+            {
+                "sedmica": 12,
+                "predavanja": 1,
+                "vjezbe": 1,
+                "index": 12345
+            },
+            {
+                "sedmica": 10,
+                "predavanja": 1,
+                "vjezbe": 1,
+                "index": 12345
+            },
+            {
+                "sedmica": 12,
+                "predavanja": 2,
+                "vjezbe": 2,
+                "index": 12346
+            },
+            {
+                "sedmica": 11,
+                "predavanja": 2,
+                "vjezbe": 2,
+                "index": 12345
+            },
+            {
+                "sedmica": 11,
+                "predavanja": 2,
+                "vjezbe": 2,
+                "index": 12346
+            },
+            {
+                "sedmica": 9,
+                "predavanja": 3,
+                "vjezbe": 2,
+                "index": 12347
+            },
+            {
+                "sedmica": 10,
+                "predavanja": 3,
+                "vjezbe": 2,
+                "index": 12347
+            },
+            {
+                "sedmica": 11,
+                "predavanja": 3,
+                "vjezbe": 2,
+                "index": 12347
+            },
+            {
+                "sedmica": 12,
+                "predavanja": 3,
+                "vjezbe": 2,
+                "index": 12347
+            }
+        ],
+        "predmet": "Web tehnologije",
+        "brojPredavanjaSedmicno": 15,
+        "brojVjezbiSedmicno": 12
+    },
+    {
+        "studenti": [
+            {
+                "ime": "Neko Nekić",
+                "index": 12347
+            },
+            {
+                "ime": "Neko Nekić",
+                "index": 12346
+            },
+            {
+                "ime": "Neko Nekić",
+                "index": 12345
+            }
+        ],
+        "prisustva": [
+            {
+                "sedmica": 7,
+                "predavanja": 5,
+                "vjezbe": 3,
+                "index": 12345
+            },
+            {
+                "sedmica": 7,
+                "predavanja": 5,
+                "vjezbe": 2,
+                "index": 12346
+            },
+            {
+                "sedmica": 7,
+                "predavanja": 4,
+                "vjezbe": 3,
+                "index": 12347
+            },
+            {
+                "sedmica": 8,
+                "predavanja": 4,
+                "vjezbe": 2,
+                "index": 12346
+            },
+            {
+                "sedmica": 8,
+                "predavanja": 3,
+                "vjezbe": 3,
+                "index": 12347
+            },
+            {
+                "sedmica": 12,
+                "predavanja": 1,
+                "vjezbe": 1,
+                "index": 12345
+            },
+            {
+                "sedmica": 10,
+                "predavanja": 1,
+                "vjezbe": 1,
+                "index": 12345
+            },
+            {
+                "sedmica": 12,
+                "predavanja": 2,
+                "vjezbe": 2,
+                "index": 12346
+            },
+            {
+                "sedmica": 11,
+                "predavanja": 2,
+                "vjezbe": 2,
+                "index": 12345
+            },
+            {
+                "sedmica": 11,
+                "predavanja": 2,
+                "vjezbe": 2,
+                "index": 12346
+            },
+            {
+                "sedmica": 9,
+                "predavanja": 3,
+                "vjezbe": 2,
+                "index": 12347
+            },
+            {
+                "sedmica": 10,
+                "predavanja": 3,
+                "vjezbe": 2,
+                "index": 12347
+            },
+            {
+                "sedmica": 11,
+                "predavanja": 3,
+                "vjezbe": 2,
+                "index": 12347
+            },
+            {
+                "sedmica": 12,
+                "predavanja": 3,
+                "vjezbe": 2,
+                "index": 12347
+            }
+        ],
+        "predmet": "Razvoj mobilnih aplikacija",
+        "brojPredavanjaSedmicno": 5,
+        "brojVjezbiSedmicno": 3
+    }
+]

@@ -1,0 +1,76 @@
+h2,
+h3 {
+    text-align: center;
+}
+
+.tabelautabeli {
+    padding: 0px !important;
+}
+
+.tabela {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabela>tbody>tr>th {
+    padding: 0;
+}
+
+.tabela>thead>tr>th,
+.tabela>tbody>tr>th,
+.tabela>tfoot>tr>th,
+.tabela>thead>tr>td,
+.tabela>tbody>tr>td,
+.tabela>tfoot>tr>td {
+    border: 2px solid black;
+    text-align: left;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.tabela .tabela th,
+.tabela .tabela td {
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 0;
+    border-left: 0;
+}
+
+.tabela .tabela th {
+    border-top: 0;
+    font-weight: normal;
+}
+
+.tabela .tabela td:last-child,
+.tabela .tabela th:last-child {
+    border-right: 0;
+}
+
+.prisutan {
+    background-color: rgb(101, 201, 101);
+}
+
+.odsutan {
+    background-color: rgb(254, 108, 108);
+}
+
+.nijeuneseno {
+    background-color: white;
+}
+
+.tabelaprisustvo,
+.odsutan,
+.prisutan,
+.nijeuneseno {
+    height: 30px;
+    width: 10px;
+}
+
+.buttonArrow {
+    margin: 10px;
+}
+
+.buttonsDiv {
+    display: flex;
+    justify-content: center;
+}

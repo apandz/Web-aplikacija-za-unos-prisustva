@@ -1,0 +1,35 @@
+#divSadrzaj {
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin: -100px 0 0 -100px;
+}
+
+#divSadrzaj button {
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+    width: 150px;
+}
+
+#divSadrzaj input {
+    width: 192px;
+}
+
+#poruka {
+    margin: 0 auto;
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+    overflow: auto;
+}
+
+.uspjesno {
+    color: green;
+}
+
+.neuspjesno {
+    color: red;
+}

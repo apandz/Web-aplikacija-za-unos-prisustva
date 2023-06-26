@@ -1,0 +1,39 @@
+[
+    {
+        "nastavnik": {
+            "username": "USERNAME",
+            "password_hash": "$2a$10$4SY1h3fjFY9cIQr0XM0/q.pv3SFZ6.VIrIdK4VOCedxMmcT9EiyfK"
+        },
+        "predmeti": [
+            "Tehnike programiranja",
+            "Numerički algoritmi",
+            "Diskretna matematika"
+        ]
+    },
+    {
+        "nastavnik": {
+            "username": "USERNAME2",
+            "password_hash": "$2a$10$jdSDniGne5q3DaZCBwDSPOn3hL29TK2G9Cxgx1UPMLVs0wVsyNtS2"
+        },
+        "predmeti": [
+            "Inženjerska matematika 1",
+            "Inženjerska matematika 2",
+            "Inženjerska matematika 3",
+            "Matematička logika i teorija izračunljivosti",
+            "Linearna algebra i geometrija",
+            "Inženjerska fizika 1",
+            "Inženjerska fizika 2"
+        ]
+    },
+    {
+        "nastavnik": {
+            "username": "user",
+            "password_hash": "$2a$10$/ugcyOmNssj2IGOEk/sk3.UUDXtDWoEFfwcjuTOpd1DMXWyQ6r2EC"
+        },
+        "predmeti": [
+            "Web tehnologije",
+            "Razvoj mobilnih aplikacija",
+            "Napredne web tehnologije"
+        ]
+    }
+]
